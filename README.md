@@ -40,3 +40,6 @@ Mongo DB
 
 .mvnw install
 docker build -t myorg/myapp:1  
+
+## code editor
+EclipseIDE 2022 - 06
