@@ -1,4 +1,5 @@
-# Autor
+# BACKEND prueba para Carvajal
+## Autor
 
 Oscar Alejandro Londoño Torres
 
@@ -38,8 +39,8 @@ Mongo DB
 
 ## deploy
 
-.mvnw install
-docker build -t myorg/myapp:1  
+- .mvnw install
+- docker build -t myorg/myapp:1  
 
 ## code editor
 EclipseIDE 2022 - 06
