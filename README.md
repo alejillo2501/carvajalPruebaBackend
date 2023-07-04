@@ -3,12 +3,6 @@
 
 Oscar Alejandro Londoño Torres
 
-# Spring Security Example
-
-Sample project demonstrating configuration and usage of Spring Security framework
-
-Please see the article [here](https://www.toptal.com/spring/spring-security-tutorial)
-
 ## Used Core Libraries
 
 - [spring-boot](https://spring.io/projects/spring-boot)
