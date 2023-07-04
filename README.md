@@ -26,6 +26,10 @@ Mongo DB
 - Role Based Authorization
 - Integration Testing
 
+## APIS Documentation Swagger
+
+{{host}}/swagger-ui/
+
 ## Important Notes
 
 - The article is outdated, in the project authentication is implemented using the spring-boot-starter-oauth2-resource-server library. I will update it when I have some free time.
